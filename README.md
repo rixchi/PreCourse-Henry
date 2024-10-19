@@ -1,2 +1,1 @@
-# PreCourse-Henry
-Este es un repositorio del modulo2 del precourse de henry
+Este proyecto es un prueba de un repositorio de como crearlo y cronarlo desde github
